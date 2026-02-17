@@ -35,8 +35,8 @@ The final output consists of **five behavioral clusters** and **five RMF bins**,
 - correlation between features was analized using correlation matrix
 - the right number of clusters was chosen by assessing the Elbow, Silhouette and Davies-Bouldin methods grpahs, 5 seemed to be the best choice
 - for clustering we used:
--- 1) K-Means to identify the cluster centers and regression tree to find out the most important separating features
--- 2) RMF analysis
+  *  K-Means to identify the cluster centers and regression tree to find out the most important separating features
+  *  RMF analysis
 
 
 ### **2) Behavioral Clustering**
